@@ -24,7 +24,7 @@ Originally built for controlled indoor agricultural environments, this platform 
 - ESP32-CAM integration for live camera monitoring & time-lapse
 - Graphical threshold setting via the web interface
 
-## Images & Demo
+## Images 
 > ![Screenshot 2025-06-09 130141](https://github.com/user-attachments/assets/cb1f9f83-92c6-4e2b-8595-b7d969648fa5)
 
 
